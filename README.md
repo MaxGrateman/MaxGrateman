@@ -14,7 +14,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite)
 ![Effector](https://img.shields.io/badge/Effector-5F5FFF?style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-![Next](https://img.shields.io/badge/Jest-C21325?style=flat&logo=next)
+![Next](https://img.shields.io/badge/Next-7B809A?style=flat&logo=next)
 
 ### My Projects
 
