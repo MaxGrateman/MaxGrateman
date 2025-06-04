@@ -20,15 +20,15 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 
-### My Projects
+## My Projects
 
 #### [claimix-frontend](https://github.com/epikhinvanya/claimix-frontend-ts)
 Team project for a real-world client (company order & claims). Built using React, Effector, and TypeScript. Includes auth, CRUD workflows, and dashboard UI.
 - Status: In Progress
 - Tech: React, TypeScript, Effector, Tailwind, REST
 
-### [bulk-buyz](https://github.com/MaxGrateman/bulk-buyz)
-## [hosting](http://bulkbuyz.ru/)
+#### [bulk-buyz](https://github.com/MaxGrateman/bulk-buyz)
+##### [hosting](http://bulkbuyz.ru/)
 BulkBuyz is a self-hosted full-stack eCommerce platform designed for digital product distribution (e.g., Steam region changes). Built using React, TypeScript, NodeJS, CSS, MongoDB.
 It includes product listings, a dynamic basket, and purchase history, with backend logic prepared for payment integration.
 - Status: Completed/Inactive
