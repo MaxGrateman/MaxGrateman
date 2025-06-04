@@ -15,6 +15,10 @@
 ![Effector](https://img.shields.io/badge/Effector-5F5FFF?style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
 ![Next](https://img.shields.io/badge/Next-7B809A?style=flat&logo=next)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
 
 ### My Projects
 
@@ -22,6 +26,12 @@
 Team project for a real-world client (company order & claims). Built using React, Effector, and TypeScript. Includes auth, CRUD workflows, and dashboard UI.
 - Status: In Progress
 - Tech: React, TypeScript, Effector, Tailwind, REST
+
+### [bulk-buyz](https://github.com/MaxGrateman/bulk-buyz)
+BulkBuyz is a self-hosted full-stack eCommerce platform designed for digital product distribution (e.g., Steam region changes). Built using React, TypeScript, NodeJS, CSS, MongoDB.
+It includes product listings, a dynamic basket, and purchase history, with backend logic prepared for payment integration.
+- Status: Completed/Inactive
+- Tech: React, TypeScript, NodeJS, CSS/SASS, MongoDB.
 
 ### Contact
 - Email: max-astakhov@mail.ru
