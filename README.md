@@ -5,7 +5,7 @@
   Background in manual QA and frontend, now fully transitioning into fullstack development.
 </p>
 
-### 🧰 Tech Stack
+### Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
