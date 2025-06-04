@@ -28,6 +28,7 @@ Team project for a real-world client (company order & claims). Built using React
 - Tech: React, TypeScript, Effector, Tailwind, REST
 
 ### [bulk-buyz](https://github.com/MaxGrateman/bulk-buyz)
+## [hosting](http://bulkbuyz.ru/)
 BulkBuyz is a self-hosted full-stack eCommerce platform designed for digital product distribution (e.g., Steam region changes). Built using React, TypeScript, NodeJS, CSS, MongoDB.
 It includes product listings, a dynamic basket, and purchase history, with backend logic prepared for payment integration.
 - Status: Completed/Inactive
