@@ -46,7 +46,7 @@ Internal B2B tool for managing company orders and claims. Built as part of a tea
 
 #### [bulk-buyz](https://github.com/MaxGrateman/bulk-buyz)
 ##### [hosting](http://bulkbuyz.ru/)
-A fullstack eCommerce platform for distributing digital products. Built with React, TypeScript, and Node.js, and connected to a MongoDB backend. Features include product listings, dynamic basket, order history, and planned payment integration.
+A fullstack eCommerce platform for distributing digital products. Built with React, TypeScript, and Node.js, and connected to a MongoDB backend. Features include product listings, order history, and planned payment integration.
 - Status: Completed/Inactive
 - Tech: React, TypeScript, NodeJS, SCSS, MongoDB
 
