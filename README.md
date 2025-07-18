@@ -37,7 +37,7 @@
 A temporary email service for receiving disposable messages. Built with Vue 3 and Pinia for state management, styled using Tailwind CSS, and deployed via Docker on an Ubuntu server.
 
 - Status: Completed/Active
-- Tech: Vue3, Pinia, TailwindCSS, Docker, Ubuntu/Linux, FramerMotion
+- Tech: Vue3, Pinia, Tailwind, Docker, FramerMotion, Ubuntu/Linux
 
 #### [claimix-frontend](https://github.com/epikhinvanya/claimix-frontend-ts)
 Internal B2B tool for managing company orders and claims. Built as part of a team using React, Effector, and TypeScript. Includes JWT authentication, CRUD operations, and a dynamic dashboard interface.
@@ -48,7 +48,7 @@ Internal B2B tool for managing company orders and claims. Built as part of a tea
 ##### [hosting](http://bulkbuyz.ru/)
 A fullstack eCommerce platform for distributing digital products. Built with React, TypeScript, and Node.js, and connected to a MongoDB backend. Features include product listings, order history, and planned payment integration.
 - Status: Completed/Inactive
-- Tech: React, TypeScript, NodeJS, SCSS, MongoDB
+- Tech: React, TypeScript, SCSS, NodeJS, MongoDB
 
 ### Contact
 - Email: max-astakhov@mail.ru
