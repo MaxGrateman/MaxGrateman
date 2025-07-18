@@ -34,22 +34,21 @@
 ## My Projects
 
 #### [mailmm-service](https://github.com/s1wos/skorleep)
-A 'temporary' email service with a clean UI for receiving disposable messages. Built using Vue 3 and Pinia for state management, with Docker-based backend integration.
+A temporary email service for receiving disposable messages. Built with Vue 3 and Pinia for state management, styled using Tailwind CSS, and deployed via Docker on an Ubuntu server.
 
 - Status: Completed/Active
 - Tech: Vue3, Pinia, TailwindCSS, Docker, Ubuntu/Linux, FramerMotion
 
 #### [claimix-frontend](https://github.com/epikhinvanya/claimix-frontend-ts)
-Team project for a real-world client (company order & claims). Built using React, Effector, and TypeScript. Includes auth, CRUD workflows, and dashboard UI.
+Internal B2B tool for managing company orders and claims. Built as part of a team using React, Effector, and TypeScript. Includes JWT authentication, CRUD operations, and a dynamic dashboard interface.
 - Status: In Progress
-- Tech: React, TypeScript, Effector, Tailwind, REST
+- Tech: React, TypeScript, Effector, Tailwind, Vite
 
 #### [bulk-buyz](https://github.com/MaxGrateman/bulk-buyz)
 ##### [hosting](http://bulkbuyz.ru/)
-BulkBuyz is a self-hosted full-stack eCommerce platform designed for digital product distribution (e.g., Steam region changes). Built using React, TypeScript, NodeJS, CSS, MongoDB.
-It includes product listings, a dynamic basket, and purchase history, with backend logic prepared for payment integration.
+A fullstack eCommerce platform for distributing digital products. Built with React, TypeScript, and Node.js, and connected to a MongoDB backend. Features include product listings, dynamic basket, order history, and planned payment integration.
 - Status: Completed/Inactive
-- Tech: React, TypeScript, NodeJS, CSS/SASS, MongoDB
+- Tech: React, TypeScript, NodeJS, SCSS, MongoDB
 
 ### Contact
 - Email: max-astakhov@mail.ru
