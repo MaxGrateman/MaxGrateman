@@ -35,6 +35,7 @@
 ## My Projects
 
 #### [mailmm-service](https://github.com/s1wos/skorleep)
+##### [hosting](http://skorleep.ru/)
 A temporary email service for receiving disposable messages. Built with Vue 3 and Pinia for state management, styled using Tailwind CSS, and deployed via Docker on an Ubuntu server.
 
 - Status: Completed/Active
