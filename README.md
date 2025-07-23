@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="300"/>
+</div>
+
 <h1 align="center">👨‍💻 Max Astaxov | Frontend Developer</h1>
 
 <p align="center">
