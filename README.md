@@ -38,6 +38,13 @@
 
 ## My Projects
 
+#### [prepify](https://github.com/MaxGrateman/prepify)
+##### [hosting]()
+A job interview preparation platform offering users various ways to train and study for upcoming tech-interviews. Built with React, TypeScript, Next.js, Redux, and Tailwind CSS on the frontend, and powered by NestJS, Prisma, and PostgreSQL on the backend.
+
+- Status: In Progress
+- Tech: React, TypeScript, Next.js, Redux Toolkit, Tailwind, Nest.js, Prisma, PostgreSQL
+
 #### [mailmm-service](https://github.com/s1wos/skorleep)
 ##### [hosting](http://skorleep.ru/)
 A temporary email service for receiving disposable messages. Built with Vue 3 and Pinia for state management, styled using Tailwind CSS, and deployed via Docker on an Ubuntu server.
@@ -47,7 +54,7 @@ A temporary email service for receiving disposable messages. Built with Vue 3 an
 
 #### [claimix-frontend](https://github.com/epikhinvanya/claimix-frontend-ts)
 Internal B2B tool for managing company orders and claims. Built as part of a team using React, Effector, and TypeScript. Includes JWT authentication, CRUD operations, and a dynamic dashboard interface.
-- Status: In Progress
+- Status: Frozen
 - Tech: React, TypeScript, Effector, Tailwind, Vite
 
 #### [bulk-buyz](https://github.com/MaxGrateman/bulk-buyz)
