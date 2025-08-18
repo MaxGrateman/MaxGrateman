@@ -47,7 +47,7 @@ A job interview preparation platform offering users various ways to train and st
 
 #### [mailmm-service](https://github.com/s1wos/skorleep)
 ##### [hosting](http://skorleep.ru/)
-A temporary email service for receiving disposable messages. Built with Vue 3 and Pinia for state management, styled using Tailwind CSS, and deployed via Docker on an Ubuntu server.
+A temporary email service for receiving disposable messages. Built with Vue 3 and Pinia for state management, styled using Tailwind CSS, and deployed via Docker/Ubuntu(WSL) on an server using NGINX.
 
 - Status: Completed/Active
 - Tech: Vue3, Pinia, Tailwind, Docker, FramerMotion, Ubuntu/Linux
