@@ -29,50 +29,107 @@
 
 ---
 
-### Stack
+### Technologies
 
-<table>
-  <tr>
-    <td width="110"><strong>Core</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Vue_3-111111?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3">
-      <img src="https://img.shields.io/badge/Nuxt-111111?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt">
-      <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" alt="React">
-      <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Pinia-FFFFFF?style=flat-square&logo=pinia&logoColor=black" alt="Pinia">
-      <img src="https://img.shields.io/badge/Redux-FFFFFF?style=flat-square&logo=redux&logoColor=black" alt="Redux">
-      <img src="https://img.shields.io/badge/Effector-FFFFFF?style=flat-square&logoColor=black" alt="Effector">
-      <img src="https://img.shields.io/badge/Tailwind-FFFFFF?style=flat-square&logo=tailwindcss&logoColor=black" alt="Tailwind CSS">
-      <img src="https://img.shields.io/badge/SCSS-FFFFFF?style=flat-square&logo=sass&logoColor=black" alt="SCSS">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/NestJS-111111?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
-      <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tooling</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-FFFFFF?style=flat-square&logo=docker&logoColor=black" alt="Docker">
-      <img src="https://img.shields.io/badge/Sentry-FFFFFF?style=flat-square&logo=sentry&logoColor=black" alt="Sentry">
-      <img src="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=black" alt="Git">
-      <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-      <img src="https://img.shields.io/badge/Postman-FFFFFF?style=flat-square&logo=postman&logoColor=black" alt="Postman">
-    </td>
-  </tr>
-</table>
+<div>
+  <sub><strong>LANGUAGES</strong></sub><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/typescript.svg">
+    <img src="./assets/badges/light/typescript.svg" alt="TypeScript" height="46">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/javascript.svg">
+    <img src="./assets/badges/light/javascript.svg" alt="JavaScript" height="46">
+  </picture>
+</div>
+
+<div>
+  <sub><strong>FRONTEND</strong></sub><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/vue-3.svg">
+    <img src="./assets/badges/light/vue-3.svg" alt="Vue 3" height="46">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/nuxt.svg">
+    <img src="./assets/badges/light/nuxt.svg" alt="Nuxt" height="46">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/react.svg">
+    <img src="./assets/badges/light/react.svg" alt="React" height="46">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/next-js.svg">
+    <img src="./assets/badges/light/next-js.svg" alt="Next.js" height="46">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/tailwind-css.svg">
+    <img src="./assets/badges/light/tailwind-css.svg" alt="Tailwind CSS" height="46">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/scss.svg">
+    <img src="./assets/badges/light/scss.svg" alt="SCSS" height="46">
+  </picture>
+</div>
+
+<div>
+  <sub><strong>STATE MANAGEMENT</strong></sub><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/pinia.svg">
+    <img src="./assets/badges/light/pinia.svg" alt="Pinia" height="46">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/redux-toolkit.svg">
+    <img src="./assets/badges/light/redux-toolkit.svg" alt="Redux Toolkit" height="46">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/effector.svg">
+    <img src="./assets/badges/light/effector.svg" alt="Effector" height="46">
+  </picture>
+</div>
+
+<div>
+  <sub><strong>BACKEND & DATA</strong></sub><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/node-js.svg">
+    <img src="./assets/badges/light/node-js.svg" alt="Node.js" height="46">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/nestjs.svg">
+    <img src="./assets/badges/light/nestjs.svg" alt="NestJS" height="46">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/postgresql.svg">
+    <img src="./assets/badges/light/postgresql.svg" alt="PostgreSQL" height="46">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/mongodb.svg">
+    <img src="./assets/badges/light/mongodb.svg" alt="MongoDB" height="46">
+  </picture>
+</div>
+
+<div>
+  <sub><strong>TOOLING</strong></sub><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/git.svg">
+    <img src="./assets/badges/light/git.svg" alt="Git" height="46">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/docker.svg">
+    <img src="./assets/badges/light/docker.svg" alt="Docker" height="46">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/sentry.svg">
+    <img src="./assets/badges/light/sentry.svg" alt="Sentry" height="46">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/linux.svg">
+    <img src="./assets/badges/light/linux.svg" alt="Linux" height="46">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/badges/dark/postman.svg">
+    <img src="./assets/badges/light/postman.svg" alt="Postman" height="46">
+  </picture>
+</div>
 
 ---
 
