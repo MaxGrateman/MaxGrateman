@@ -1,0 +1,1 @@
+Custom outlined GitHub badges. Copy README.md and assets/badges/ to your GitHub profile repository. Uses GitHub theme switching via <picture>. Logos from Font Awesome Free Brands where available; remaining icons are typographic monograms, not official brand artwork. Design colors are grayscale.
