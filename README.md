@@ -1,69 +1,130 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="300"/>
-</div>
 
-<h1 align="center">👨‍💻 Max Astaxov | Frontend Developer</h1>
+<div align="center">
 
-<p align="center">
-  I build scalable frontend applications with React and TypeScript, focusing on performance, maintainability, and clean UI architecture.<br>
-  Background in manual QA and frontend, now fully transitioning into fullstack development.
+<h1>Max Astaxov</h1>
+
+<strong>Software Engineer</strong>
+
+<p>
+  Software Engineer at Kaspi.kz, working with TypeScript and modern web technologies.
+  Experience in fintech and international e-commerce projects involving Hepsiburada.
 </p>
 
-## Tech Stack
+<a href="https://www.linkedin.com/in/max-astaxov-057438366/">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:max-astakhov@mail.ru">Email</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://t.me/MaxGrateman">Telegram</a>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Vue 3](https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Effector](https://img.shields.io/badge/Effector-5F5FFF?style=for-the-badge)
-![Pinia](https://img.shields.io/badge/Pinia-FFD43B?style=for-the-badge&logo=pinia&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-hotpink?style=for-the-badge&logo=sass&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-ea4fff?style=for-the-badge&logo=framer&logoColor=black)
+</div>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br>
 
-### Other
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<h2>Technologies</h2>
 
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>TypeScript, JavaScript</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>Vue 3, Nuxt, React, Next.js</td>
+  </tr>
+  <tr>
+    <td><strong>State Management</strong></td>
+    <td>Pinia, Redux Toolkit, Effector</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js, NestJS</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>PostgreSQL, MongoDB</td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>Git, Docker, Sentry, Postman, Linux</td>
+  </tr>
+</table>
 
-## My Projects
+<br>
 
-#### [prepify](https://github.com/MaxGrateman/prepify)
-##### [hosting]()
-A job interview preparation platform offering users various ways to train and study for upcoming tech-interviews. Built with React, TypeScript, Next.js, Redux, and Tailwind CSS on the frontend, and powered by NestJS, Prisma, and PostgreSQL on the backend.
+<h2>Selected Work</h2>
 
-- Status: In Progress
-- Tech: React, TypeScript, Next.js, Redux Toolkit, Tailwind, Nest.js, Prisma, PostgreSQL
+<table>
+  <tr>
+    <td>
+      <h3>New Project</h3>
+      <p>
+        Currently developing a new independent project.
+        More details will be added as development progresses.
+      </p>
+      <sub>In development</sub>
+    </td>
+  </tr>
+</table>
 
-#### [mailmm-service](https://github.com/s1wos/skorleep)
-##### [hosting](http://skorleep.ru/)
-A temporary email service for receiving disposable messages. Built with Vue 3 and Pinia for state management, styled using Tailwind CSS, and deployed via Docker/Ubuntu(WSL) on an server using NGINX.
+<br>
 
-- Status: Completed/Active
-- Tech: Vue3, Pinia, Tailwind, Docker, FramerMotion, Ubuntu/Linux
+<h2>Previous Work</h2>
 
-#### [claimix-frontend](https://github.com/epikhinvanya/claimix-frontend-ts)
-Internal B2B tool for managing company orders and claims. Built as part of a team using React, Effector, and TypeScript. Includes JWT authentication, CRUD operations, and a dynamic dashboard interface.
-- Status: Frozen
-- Tech: React, TypeScript, Effector, Tailwind, Vite
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/MaxGrateman/prepify">Prepify</a>
+      </h3>
+      <p>
+        A fullstack platform for technical interview preparation.
+      </p>
+      <sub>Next.js · TypeScript · NestJS · PostgreSQL</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/s1wos/skorleep">Mailmm Service</a>
+      </h3>
+      <p>
+        A temporary email service built with Vue 3 and deployed
+        using Docker and NGINX.
+      </p>
+      <sub>Vue 3 · Pinia · Docker</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/epikhinvanya/claimix-frontend-ts">Claimix</a>
+      </h3>
+      <p>
+        A B2B application for managing orders and claims,
+        developed as part of a team.
+      </p>
+      <sub>React · TypeScript · Effector</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/MaxGrateman/bulk-buyz">Bulk Buyz</a>
+      </h3>
+      <p>
+        An e-commerce application for digital products.
+      </p>
+      <sub>React · Node.js · MongoDB</sub>
+    </td>
+  </tr>
+</table>
 
-#### [bulk-buyz](https://github.com/MaxGrateman/bulk-buyz)
-##### [hosting](http://bulkbuyz.ru/)
-A fullstack eCommerce platform for distributing digital products. Built with React, TypeScript, and Node.js, and connected to a MongoDB backend. Features include product listings, order history, and planned payment integration.
-- Status: Completed/Inactive
-- Tech: React, TypeScript, SCSS, NodeJS, MongoDB
+<br>
 
-### Contact
-- Email: max-astakhov@mail.ru
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-astaxov-057438366/)
-- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@MaxGrateman)
+<hr>
+
+<div align="center">
+  <sub>
+    <a href="https://github.com/MaxGrateman">GitHub</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/max-astaxov-057438366/">LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:max-astakhov@mail.ru">Email</a>
+  </sub>
+</div>
